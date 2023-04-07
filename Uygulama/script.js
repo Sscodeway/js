@@ -7,7 +7,7 @@ let not2 = 90;*/
 
 let ad = prompt("Adınızı Giriniz : ");
 let ogrencino = prompt("Öğrenci Numarası Giriniz: ");
-let cinsiyet = prompt("Cinsiyeti Giriniz : ")                 //Bilgileri kullanıcıdan alır isek.
+let cinsiyet = prompt("Cinsiyeti Giriniz : ")                 //Bilgileri kullanıcıdan alır.
 let ders = prompt("Ders Adı Giriniz : ")
 let not1 = prompt("İlk Notu Giriniz : ")
 let not2 = prompt("İkinci Notu Giriniz : ")
